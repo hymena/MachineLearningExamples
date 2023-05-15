@@ -20,6 +20,8 @@ import nltk
 # downloading the stopwords. These are the words does not add much value to the dataset
 nltk.download('stopwords')
 print(stopwords.words('english'))
+#testing something
+
 
 # data preprocessing 
 # loading the dataset 
